@@ -64,3 +64,12 @@ g:The last installation process started and started the process of logging into 
 
 <img width="583" alt="تيرمنال" src="https://user-images.githubusercontent.com/108091010/180067717-b90b5173-0be7-4fae-a65e-fde61e1d71da.png">
 
+h:Open the link "https://s-m.com.sa/ros.txt " in Firefox to copy commands
+
+![WhatsApp Image 2022-07-20 at 9 59 45 PM (6)](https://user-images.githubusercontent.com/108091010/180068301-ea027c26-a9f7-4411-b2dd-54b9dc63640d.jpeg)
+
+i:Open the command page and the terminal page to copy the commands to the terminal
+
+j: After you finish typing the commands, this page will appear showing that the installation of Ros has completed
+
+<img width="965" alt="الاخيرة" src="https://user-images.githubusercontent.com/108091010/180068962-d008fb08-d95f-4620-a829-4cc925dea602.png">
